@@ -1,3 +1,3 @@
 <?php
 
-echo "Hello World Wide Web!";
+echo "Hello World Wide Web! - Staging";
